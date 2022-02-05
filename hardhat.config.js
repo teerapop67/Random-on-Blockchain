@@ -10,8 +10,8 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
   }
 });
 
-const mnemonic = ''
-
+const mnemonic =
+  "merry hurdle cherry sentence outside end nuclear supply ahead feel bracket emotion";
 
 // You need to export an object to set up your config
 // Go to https://hardhat.org/config/ to learn more
